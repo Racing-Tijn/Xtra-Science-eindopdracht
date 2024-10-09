@@ -1,2 +1,2 @@
 # Xtra-Science-eindopdracht
-Eindopdracht met olivier :(
+Eindopdracht met olivier
